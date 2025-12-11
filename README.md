@@ -2,7 +2,7 @@
 This project performs Exploratory Data Analysis on an Ecommerce Sales Dataset, focusing on understanding customer behavior, product performance, sales trends, revenue patterns, and the relationships between key sales variables.
 The goal is to transform raw, messy data into useful insights through cleaning, visualisation, and statistical exploration.
 
-📁 Dataset
+Dataset
 The dataset used for this analysis is:
 Ecommerce Sales Dataset (superstore_cleaned.csv)
 The cleaned dataset file is uploaded here.
