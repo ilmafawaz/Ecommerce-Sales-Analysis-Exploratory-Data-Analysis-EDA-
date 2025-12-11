@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Analysis-Exploratory-Data-Analysis-EDA-
+# Ecommerce-Sales-Analysis-Exploratory-Data-Analysis-EDA-Intermediate Project
 This project performs Exploratory Data Analysis on an Ecommerce Sales Dataset, focusing on understanding customer behavior, product performance, sales trends, revenue patterns, and the relationships between key sales variables.
 The goal is to transform raw, messy data into useful insights through cleaning, visualisation, and statistical exploration.
 
