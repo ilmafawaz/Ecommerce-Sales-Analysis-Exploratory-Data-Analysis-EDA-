@@ -2,10 +2,10 @@
 An intermediate Exploratory Data Analysis (EDA) project on an ecommerce sales dataset, focused on uncovering patterns in sales performance, customer behavior, and revenue drivers using Python.
 
 What this project covers
-Data cleaning and feature engineering
-Univariate and bivariate analysis
-Sales, profit, and time-based trend exploration
-Insight-driven visualizations for business understanding
+- Data cleaning and feature engineering
+- Univariate and bivariate analysis
+- Sales, profit, and time-based trend exploration
+- Insight-driven visualizations for business understanding
 
 Key insights
 Revenue is driven by a small set of high-performing product categories
