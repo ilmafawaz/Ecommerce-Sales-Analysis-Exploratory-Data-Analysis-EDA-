@@ -5,13 +5,13 @@ Scope
 - Data cleaning and feature engineering
 - Univariate and bivariate analysis
 - Trend and profitability exploration
-- Insight-driven visualizations
+- Insight-driven visualisations
 
 Tools & Skills
 Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, EDA
 
 Tools & Skills
-Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, EDA, Data Visualization
+Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, EDA, Data Visualisation
 
 Outcome
 - Demonstrates the ability to transform raw ecommerce data into structured, analysis-ready insights, forming a strong base for advanced analytics and modeling.
