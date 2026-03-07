@@ -5,7 +5,7 @@ Scope
 - Data cleaning and feature engineering
 - Univariate and bivariate analysis
 - Trend and profitability exploration
-- Insight-driven visualisations
+- Insight-driven visualisations 
 
 Tools & Skills
 Python, Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, EDA
